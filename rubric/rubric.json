@@ -17,18 +17,18 @@
   },
   "Communication": {
     "Feedback and Code Reviews": {
-      "Beginner": "Have not learned how to handle constructive feedback professionally. Pull Request comments are low value.",
-      "Advanced Beginner": "Accepts constructive feedback calmly but may need multiple iterations to implement the technical solution. Can catch obvious errors in PRs but may be hesitant to challenge or provide actionable suggestions.",
-      "Intermediate": "Accepts constructive feedback well and can implement it quickly in and out of code reviews. Provides quality guidance to Advanced Beginners.",
-      "Advanced": "Accepts constructive feedback with grace and acts on it when appropriate. Provides context-appropriate and actionable feedback to developers of all levels. Recognizes their own biases and actively works to correct them. Capable of seeing bugs through reading code in PRs before even pulling down the branch.",
-      "Expert": "Models a supportive and productive feedback culture. Accepts constructive feedback with grace and acts on it when appropriate. Proactively reaches out for more feedback in areas of lower skill or where previous mistakes were made calling out hotspots for reviewers to focus on.\r"
+      "Beginner": "I am still learning about pull-requests and how to accept feedback constructively and implement feedback without additional help.",
+      "Advanced Beginner": "I stay calm when receiving feedback. I typically understand feedback but may need more guidance to fully apply improvements. I can notice clear issues in reviews but need to improve on speaking up more with helpful and specific ideas.",
+      "Intermediate": "I welcome feedback and can implement it efficiently in my work and reviews. I provide quality guidance to less experienced teammates.",
+      "Advanced": "I accept feedback well and act on it when suitable. I give constructive and actionable feedback tailored to each person and situation. I recognize my own biases and actively work to counter them. I can often spot bugs in code by inspection.",
+      "Expert": "I exemplify a supportive and productive feedback culture. I embrace feedback and apply it when necessary. I proactively ask for more feedback where I am less skilled or have made previous mistakes, calling out areas for reviewers to focus on.\r"
     },
     "Requirements": {
-      "Beginner": "Requires very detailed step-by-step overviews of requirements. Can carry very small tasks. Cannot estimate time requirements.",
-      "Advanced Beginner": "\"Can implement requirements but may be \"\"to the letter\"\" of acceptance criteria and no more. Will be familiar with just a few areas of a single application. Low quality estimation.\"",
-      "Intermediate": "\"Implements requirements both to the letter and spirit of acceptance criteria. Asks good questions during requirements grooming. However they may fall into \"\"Bikeshedding\"\" patterns or require very detailed specifications. Mixed estimation accuracy.\"",
-      "Advanced": "Frequently provides the organization / project with simpler optimized requirement alternatives. Can communicate organization / project needs to developers and design constraints to users. Can break down large requirements by domain or stack verticals. Good estimation accuracy. Effective at “pushing back” on the Business.",
-      "Expert": "Consistently anticipates the organization’s / project's needs and improves grooming to suit it. Capable of building roadmaps that balance technical efficiency with maximum value. Influences testing strategies to ensure quality. Excellent estimate accuracy. Highly effective at “pushing back” on the Business.\r"
+      "Beginner": "I require very detailed step-by-step overviews of requirements. I am comfortable with small tasks but am still learning the system and coding structures/patterns.",
+      "Advanced Beginner": "I am comfortable with well defined acceptance criteria. I am comfortable with specific areas of the application but require help when taking on a task in a new area.",
+      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria, and I ask good questions during requirements grooming. However I sometimes fail to identify the real problem and can be taken down rabit trails.",
+      "Advanced": "I frequently provide the project with simpler optimized requirement alternatives. I am comfortable communicating project needs to developers and design constraints to users. I am able to effectively break down large requirements by domain.",
+      "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value. I influence testing strategies to ensure quality."
     },
     "Technical Communication": {
       "Beginner": "Low or incorrect knowledge of technical vocabulary. Explains concepts with textbook definitions without practical backing.",
