@@ -1,64 +1,78 @@
 {
   "General": {
-    "General": {
+    "General Overview": {
       "Beginner": "A Beginner developer is just getting started.",
       "Advanced Beginner": "Advanced Beginners may not be the workhorse of a project but they can provide more value than they require from a dev team.",
       "Intermediate": "Intermediate developers can effectively support Advanced Beginner and Beginner developers. They can understand and ask challenging questions about design techniques.",
       "Advanced": "Advanced developers are capable of looking at the bigger picture for engineering challenges and design key components from scratch. They can mentor not just support more junior devs.",
-      "Expert": "Experts can not only design a solution but also see how it interacts with other software. They're capable of acting as force multipliers as well as mentors. While they may not be as “hands on keyboard” as other devs they still know how to code at an incredibly high level.\r"
-    },
-    "Where they are likely to be found": {
-      "Beginner": "Self-taught developers who are just getting started. Programming or Computer Science students in their first two years of study.",
-      "Advanced Beginner": "Developers who have been coding for a few months to a few years.",
-      "Intermediate": "Most professional software developers.",
-      "Advanced": "Most Advanced developers fill Tech Lead roles though they can still be found in the frontline of a team.",
-      "Expert": "Experts sometimes have “Architect” in their title and are rare and valuable enough to be spread across multiple teams.\r"
+      "Expert": "Experts can not only design a solution but also see how it interacts with other software. They're capable of acting as force multipliers as well as mentors. While they may not be as “hands on keyboard” as other devs they still know how to code at an incredibly high level."
     }
   },
   "Communication": {
     "Feedback and Code Reviews": {
-      "Beginner": "I am still learning about pull-requests and how to accept feedback constructively and implement feedback without additional help.",
-      "Advanced Beginner": "I stay calm when receiving feedback. I typically understand feedback but may need more guidance to fully apply improvements. I can notice clear issues in reviews but need to improve on speaking up more with helpful and specific ideas.",
-      "Intermediate": "I welcome feedback and can implement it efficiently in my work and reviews. I provide quality guidance to less experienced teammates.",
-      "Advanced": "I accept feedback well and act on it when suitable. I give constructive and actionable feedback tailored to each person and situation. I recognize my own biases and actively work to counter them. I can often spot bugs in code by inspection.",
-      "Expert": "I exemplify a supportive and productive feedback culture. I embrace feedback and apply it when necessary. I proactively ask for more feedback where I am less skilled or have made previous mistakes, calling out areas for reviewers to focus on.\r"
+      "Beginner": "What is a code review?  I am still learning about pull-requests and how to accept feedback constructively and implement feedback without additional help.",
+      "Advanced Beginner": "I typically understand feedback but may need more guidance to fully apply improvements. When providing feedback I typically notice clear issues in reviews but need to improve on speaking up more with helpful and specific ideas.",
+      "Intermediate": "I welcome feedback and can implement it efficiently in my work and reviews. I am more confident in the comments I give in reviews and am able to provide quality guidance to less experienced teammates.",
+      "Advanced": "I accept feedback well and act on it when suitable. When reviewing other's code I consistently give constructive and actionable feedback tailored to each person and situation. My feedback to others is typically well thought out and is able to be easily understood and implemented by other team members.",
+      "Expert": "I exemplify a supportive and productive feedback culture and embrace feedback and apply it when necessary. I can quickly spot bugs by just reviewing code and am proactively looking at ways to simplify a solution while adhering to the system's architecture.  While critical during the review process, I strive to create a culture of continuous learning and improvement."
     },
-    "Requirements": {
-      "Beginner": "I require very detailed step-by-step overviews of requirements. I am comfortable with small tasks but am still learning the system and coding structures/patterns.",
-      "Advanced Beginner": "I am comfortable with well defined acceptance criteria. I am comfortable with specific areas of the application but require help when taking on a task in a new area.",
-      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria, and I ask good questions during requirements grooming. However I sometimes fail to identify the real problem and can be taken down rabit trails.",
+    "Understanding Requirements": {
+      "Beginner": "I am still learning the system and require very detailed step-by-step overviews of requirements along with acceptance criteria.",
+      "Advanced Beginner": "I am able to take requirements and fill in some technical gaps but still require defined acceptance criteria.",
+      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria as well as fill in gaps as necessary. I ask good questions during requirements grooming, however I sometimes fail to identify the real problem and can be taken down rabbit trails.",
       "Advanced": "I frequently provide the project with simpler optimized requirement alternatives. I am comfortable communicating project needs to developers and design constraints to users. I am able to effectively break down large requirements by domain.",
-      "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value. I influence testing strategies to ensure quality."
+      "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value."
     },
     "Technical Communication": {
-      "Beginner": "Low or incorrect knowledge of technical vocabulary. Explains concepts with textbook definitions without practical backing.",
-      "Advanced Beginner": "Can communicate clearly with higher level developers but still struggles to discuss things with non-technical stakeholders. Can help beginners with obvious problems but will defer fairly frequently.",
-      "Intermediate": "Beginning to show the ability to discuss technical topics with non-technical stakeholders. Can fluently discuss topics with correct vocabulary. Developing pattern matching and simplification skills.",
-      "Advanced": "Capable of fluently discussing technical topics with simplified and direct vocabulary. Organizes written communication for consumption by the intended audience. Expert pattern matcher but may over-simplify and miss details.",
-      "Expert": "Able to discuss technology with the broadest range of stakeholders from the form of simplified executive presentations to in-depth debates with solution architects on the details of tool selection. Passively builds knowledge and insight in more junior team members.\r"
+      "Beginner": "I am still learning technical vocabulary. I can explain a concept if I have seen it or read about it and have also implemented it several times.",
+      "Advanced Beginner": "I can communicate clearly with higher level developers but still struggles to discuss things with non-technical stakeholders. I can help beginners with obvious problems but will defer fairly frequently to more senior developers.",
+      "Intermediate": "I am becoming more comfortable discussing technical topics with non-technical stakeholders. I can fluently discuss topics with correct vocabulary. I am able to identify patterns in the system and constantly search for ways to simplify it but can occasionally miss details.",
+      "Advanced": "I am capable of fluently discussing technical topics with simplified and direct vocabulary. I can effectively communicate with others through both verbal and written communication and able to match my descriptions to the intended audience.",
+      "Expert": "I am able to discuss technology with the broadest range of stakeholders from executive presentations to in-depth debates with solution architects on the details of tool selection. I enjoy building knowledge and insight in more junior team members."
     }
   },
   "Core Software Skills": {
-    "Data Structures": {
-      "Beginner": "Understands simple control flow and some basic collections. May fit incorrect but familiar data structures to far too many problems.",
-      "Advanced Beginner": "Understands most control flow and collections. Can sometimes tell when an algorithm can be improved but probably won't know how. Follows established patterns but cannot chart a new course.",
-      "Intermediate": "Can optimize advanced beginner code call out reasons for performance deficiencies and understands the basics of how data access and networking calls can affect performance.",
-      "Advanced": "Strong understanding of data structures and rarely makes degenerative code mistakes. Intimately understands data access and network calls. Knows hot spots where technical debt lives and must be addressed at a solution level.",
-      "Expert": "Can implement high-tier algorithms with maximum performance. Understands how to build rube-goldberg/code golf structures - and uses this knowledge to avoid them at all costs. Strong understanding of popular and valuable design patterns.\r"
+    "General": {
+      "Beginner": "I can complete assigned tasks under supervision. I am ramping up on core engineering concepts and languages. I follow prescribed processes and identify when to seek guidance.",
+      "Advanced Beginner": "I work effectively within a team and can build applications or services based on requirements. I write maintainable code and am building my technical skills. I understand software lifecycles and project needs.",
+      "Intermediate": "I can independently develop solutions and collaborate cross-functionally. I make technical recommendations and optimize based on best practices. I participate in architecture reviews, retrospectives and mentoring.",
+      "Advanced": "I provide multi-disciplinary leadership through influence and enablement. I develop staff, set direction, and define processes and standards. I am a trusted advisor on designs, roadmaps and governance.",
+      "Expert": "I am a highly skilled technical leader known for strategic vision and judgment. I build teams, capabilities and culture. I am a hands-on subject matter expert and coach. I shape the engineering profession through public speaking, publishing and contributions."
     },
-    "Style and Semantics": {
+    "AWS Cloud Knowledge":{
+      "Beginner": "I am capable of explaining the basic benefits of cloud computing and AWS with simplified vocabulary. I am familiar with fundamental AWS services and can complete basic tasks like launching and connecting to an EC2 instance.",
+      "Advanced Beginner":"I am able to describe the Well-Architected Framework principles and create straightforward VPCs and container deployments using essential AWS services. I am starting to apply my knowledge to build basic solutions.",
+      "Intermediate":"I can fluently identify anti-patterns against the Well-Architected Framework. I am skilled in using a range of AWS services to automate workflows, secure applications, and deploy infrastructure as code.",
+      "Advanced":"I am adept at designing robust solutions using a variety of AWS services and features. I can optimize cost and performance and extend AWS services programmatically at an advanced level. I can adapt my communication style for technical and non-technical audiences.",
+      "Expert":"I am highly capable in designing fault-tolerant, enterprise-grade architectures on AWS. I can diagnose and resolve complex technical issues and deliver highly secure, compliant solutions optimized for performance and cost. I can communicate and explain AWS solutions to both technical and business stakeholders clearly and effectively."
+    },
+    "Microservices/Backend development":{
+      "Beginner": "I can explain the basic principles of microservices at a high level. I have written simple functions and deployed basic services.",
+      "Advanced Beginner":"I understand microservices and can explain it to others.  I'm comfortable creating APIs and functions if others already exist in the service.",
+      "Intermediate":"I have worked on several serverless projects using AWS Lambda and API Gateway. I can design and code RESTful APIs for microservices that follow standard practices",
+      "Advanced":"I lead development of complex serverless systems and event-driven architectures. I implement secure API gateways, manage cross-service dependencies, and integrate serverless with legacy systems. I can diagnose and debug performance issues in distributed serverless environments.",
+      "Expert":"I am an authority in building resilient, scalable production systems using a serverless microservices approach on AWS. I author libraries, tools and standards around serverless development. I can translate complex business needs into elegant serverless solutions and communicate them clearly."
+    },
+    "React/Frontend development":{
+      "Beginner": "I understand the basic principles of React and can build simple user interface components. I have basic knowledge of HTML, CSS and JavaScript.",
+      "Advanced Beginner":"I can build React applications with multiple components and states. I understand concepts like props, hooks and lifecycle methods. I can integrate React apps with REST APIs.",
+      "Intermediate":"I utilize React best practices like functional components, Hooks and code splitting in my applications. I can create reusable React component libraries and optimize performance.",
+      "Advanced":"I architect complex React codebases that are maintainable and scalable. I implement advanced patterns like higher order components, context, suspense. I can lead frontend development and make tradeoff decisions on frameworks and libraries.",
+      "Expert":"I am an expert in building pixel-perfect, high performance React experiences. I have deep knowledge of React internals and contribute to the framework. I lead frontend strategy, governance and standards for large organizations. I can navigate business needs to deliver optimal React solutions."
+    },
+    "Testing":{
+      "Beginner": "I understand the basic principles of unit and integration testing. I can write simple isolated unit tests for individual functions or classes.",
+      "Advanced Beginner":"I regularly write unit tests using the selected framework as part of my development workflow. I can do basic integration testing between simple modules.",
+      "Intermediate":"I can do test driven development and have well-tested modular code with mocks, stubs and fakes. I can set up integration test environments and write automated tests for complex scenarios.",
+      "Advanced":"I advocate for and implement testing best practices at all levels within applications and systems. I can create re-usable test harnesses and utilities. I provide mentoring and leadership on effective testing strategies.",
+      "Expert":"I am highly proficient with unit and integration testing techniques, principles and design patterns. I can diagnose and improve testing coverage across large scale systems. I influence test automation standards and strategies at an organizational level."
+    }
+    ,"REMOVE??? Style and Semantics": {
       "Beginner": "Methods are typically too large with verbose or otherwise unuseful names. Can imitate patterns or styles but often incorrectly.",
       "Advanced Beginner": "Will think about how to solve a problem generically before worrying about syntax. Will ask naive but still-useful questions. Will require reinforcement to follow established patterns.",
       "Intermediate": "Uses inoffensive function and variable names as a rule. Has developed opinions about coding styles and languages and can speak about their background. Highly complex code may still need a heavy hand from Advanced or Expert developers to make it beautiful.",
       "Advanced": "Has a knack for using agreeable function and variable names that other developer s use without complaint. Deviates from style when appropriate but is an advocate for shared approaches. Capable of implementing complex code and explaining it to another developer for validation.",
-      "Expert": "Consistently drives high-level vision for style with high team buy-in. Influences entire codebases while writing a subset of the code. Accepts feedback and follows along when joining a new team with mature practices - even if those practices don't match the Developer's own.\r"
-    },
-    "General": {
-      "Beginner": "Can implement greedy solutions to algorithm problems but misses corner cases. No/ low understanding of unit testing. Only familiar with a small number of frameworks some only by name.",
-      "Advanced Beginner": "Can implement basic solutions that may not be optimal and catch simple corner cases. Will build tests if assigned but needs strong patterns to build off of. Strongly familiar with at least one framework.",
-      "Intermediate": "\"Implements medium complexity functionality after a team discussion and can be trusted with complexity given enough detail from Senior team members. Code is generally complete and can be trusted with both unit and \"\"Dev Testing\"\" tasks.\"",
-      "Advanced": "May be the first boots on the ground for a new feature creating scaffolds for intermediate developer s to follow. Understands the frameworks in use across the entire stack and has dabbled enough outside of the toolset to know what's good and what's not. Has a plan for how to improve whatever the team's next project is.",
-      "Expert": "Can organize and design critical-path features for the organization / project and its users. Has a wide variety of experience outside of a project's selected toolset and understands the life-and-hype cycle of new frameworks at a deep level. Has a plan to make sure the entire team's skills will be used to their maximum potential for the next project even if it doesn't build their resume quite as much.\r"
+      "Expert": "Consistently drives high-level vision for style with high team buy-in. Influences entire codebases while writing a subset of the code. Accepts feedback and follows along when joining a new team with mature practices - even if those practices don't match the Developer's own."
     }
   },
   "Infrastructure": {
@@ -67,7 +81,7 @@
       "Advanced Beginner": "Understands branching strategies but generally just for a single team. Can follow strong work tracking practices when provided.",
       "Intermediate": "Understands branching strategies from a couple of teams and approaches and can provide pros and cons. Understands work tracking and adheres to standards. Able to provide good feedback and opinions for improving team processes.",
       "Advanced": "Knows the pros and cons of multiple branching strategies but may still try and force an inappropriate one on a certain product. Understands work tracking systems and how to passively communicate with the organization / project through them. An advocate for improved process.",
-      "Expert": "Capable of creating a cohesive branching strategy that serves the need of both the development team and users. Enhances the ALM experience with rich tagging versioning and automated documentation generation. Can provide valuable and cross-team guidance on best practices.\r"
+      "Expert": "Capable of creating a cohesive branching strategy that serves the need of both the development team and users. Enhances the ALM experience with rich tagging versioning and automated documentation generation. Can provide valuable and cross-team guidance on best practices."
     },
     "Design and Deployment": {
       "Beginner": "Will require significant help to set up a typical project. Little understanding of underlying hardware or the particulars of tool selection.",
