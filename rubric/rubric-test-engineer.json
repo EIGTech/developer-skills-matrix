@@ -23,6 +23,13 @@
             "Advanced": "I have designed and implemented sophisticated test infrastructure and capabilities across multiple disciplines, types of testing and technology stacks for large-scale programs.",
             "Expert": "I am an acknowledgeable across the full spectrum of leading-edge testing tools, techniques, and emerging technologies. I am typically on the bleeding edge of innovation."
         },
+        "AWS Cloud Knowledge":{
+            "Beginner": "I am capable of explaining the basic benefits of cloud computing and AWS with simplified vocabulary. I am familiar with fundamental AWS services and can complete basic tasks like launching and connecting to an EC2 instance.",
+            "Advanced Beginner":"I am able to describe the Well-Architected Framework principles and create straightforward VPCs and container deployments using essential AWS services. I am starting to apply my knowledge to build basic solutions.",
+            "Intermediate":"I can fluently identify anti-patterns against the Well-Architected Framework. I am skilled in using a range of AWS services to automate workflows, secure applications, and deploy infrastructure as code.",
+            "Advanced":"I am adept at designing robust solutions using a variety of AWS services and features. I can optimize cost and performance and extend AWS services programmatically at an advanced level. I can adapt my communication style for technical and non-technical audiences.",
+            "Expert":"I am highly capable in designing fault-tolerant, enterprise-grade architectures on AWS. I can diagnose and resolve complex technical issues and deliver highly secure, compliant solutions optimized for performance and cost. I can communicate and explain AWS solutions to both technical and business stakeholders clearly and effectively."
+          },
         "Test planning and estimation": {
             "Beginner": "I can execute prescribed test plans and test cases provided to me. I have limited experience estimating testing efforts.",
             "Advanced Beginner": "I can estimate testing efforts for small, well-defined workstreams based on some past experience. I understand factors that can impact test planning.",
