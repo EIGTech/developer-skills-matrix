@@ -1,0 +1,91 @@
+{
+    "Communication": {
+        "Collaboration and communication": {
+            "Beginner": "",
+            "Advanced Beginner": "",
+            "Intermediate": "",
+            "Advanced": ".",
+            "Expert": ""
+        },
+        "Requirements Gathering": {
+            "Beginner": "I conduct basic requirements interviews and workshops with support.",
+            "Intermediate": "I independently elicit comprehensive requirements using various techniques. I validate understanding with stakeholders.",
+            "Advanced": "I uncover complete system requirements through effective stakeholder collaboration. I drive alignment on priorities and acceptance criteria.",
+            "Expert": "I pioneer new techniques for holistic requirements analysis and validation. I synthesize interconnected needs across systems and business units through immersive collaboration."
+        },
+        "Project Management": {
+            "Beginner": "I follow prescribed project plans and test schedules closely, while learning project management fundamentals.",
+            "Advanced Beginner": "I can breakdown high-level timelines into actionable tasks and milestones. I understand how to manage my time and priorities.",
+            "Intermediate": "I help define project scope and phases, identify resource needs, and highlight schedule risks.",
+            "Advanced": "I drive end-to-end project schedules. I institute metrics to monitor progress and cadence.",
+            "Expert": "I pioneer new frameworks and methodologies to optimize delivery, maximize value, and reduce risk through enhanced project governance."
+        },
+        "Domain Knowledge": {
+            "Beginner": "I have gained familiarity with the fundamentals of my team or company's business domain space.",
+            "Advanced Beginner": "I apply domain knowledge to design more meaningful use cases aligned to how the software is used.",
+            "Intermediate": "I leverage broad domain insights to maximize usage and effectiveness of tools developed by the technology team.",
+            "Advanced": "I engage with stakeholders strategically based on my deep understanding of company products, customers, markets.",
+            "Expert": "I am regarded as a thought leader both within and outside my organization."
+        },
+        "Industry Knowledge": {
+            "Beginner": "I stay aware of general industry news, trends, competitors and innovations.",
+            "Advanced Beginner": "I understand how industry drivers relate to my company and role. I apply relevant external insights.",
+            "Intermediate": "I actively research my industry and can hold informed discussions on events, innovations, and company positioning.",
+            "Advanced": "I am considered an industry expert who anticipates trends and disruptions. I provide guidance based on industry insights.",
+            "Expert": "I am a widely followed thought leader driving dialogue on industry direction through publications, speaking, advisory boards."
+        }
+    },
+    "Product Knowledge": {
+        "Understanding of Customer Products": {
+            "Beginner": "I have a basic awareness of the company's core products, services and customers.",
+            "Advanced Beginner": "I can describe company product offerings and target segments at a high level.",
+            "Intermediate": "I demonstrate solid knowledge of major product capabilities, use cases, and end user workflows.",
+            "Advanced": "I have mastered technical intricacies and business purpose across the breadth of company products and customers.",
+            "Expert": "I possess an unparalleled view of the evolution of company products from inception to future. I advise product strategy."
+        },
+        "Ability to Learn New Products/Technologies": {
+            "Beginner": "I rely on structured training and close guidance to get up to speed on new products.",
+            "Advanced Beginner": "I can independently supplement available training with own research to grasp new products.",
+            "Intermediate": "I can rapidly self-educate on new and complex products with minimal ramp up time.",
+            "Advanced": "I assist in designing onboarding processes and training for new products based on ease of learning.",
+            "Expert": "I am entrusted to spearhead early-stage efforts for incubating new technologies, products, markets."
+        },
+        "Working with Stakeholders": {
+            "Beginner": "I interact with stakeholders under close supervision to gather requirements and flush out use cases.",
+            "Advanced Beginner": "I can have informal discussions with stakeholders to clarify requirements or report issues.",
+            "Intermediate": "I collaborate actively with stakeholders at multiple levels to align functionality with their needs and priorities.",
+            "Advanced": "I engage strategically with senior stakeholders to advise them on risks, tradeoffs and maximizing value.",
+            "Expert": "I am the trusted advisor who steers executive-level stakeholders to enact technology for competitive advantage."
+        }
+    },
+    "Technical Skills": {
+        "AWS Cloud Knowledge": {
+            "Beginner": "I understand basic concepts of cloud computing and AWS. I know some AWS services like EC2 at a high level.",
+            "Advanced Beginner": "I can explain benefits of the cloud and key AWS services to others. I have used some AWS services before.",
+            "Intermediate": "I am comfortable describing AWS services and how they work to business stakeholders. I can give examples based on my experience.",
+            "Advanced": "I can hold discussions on how AWS meets business needs in cost, security, scalability. I am able to tailor my communication for any audience.",
+            "Expert": "I am regarded as an expert on applying AWS cloud solutions to business goals. I advise teams on strategy and governance."
+        },
+        "Technology and Tool Skills": {
+            "Beginner": "I have fundamental skills in using standard business analysis tools like Excel, LucidChart, Monday, etc.",
+            "Advanced Beginner": "",
+            "Intermediate": "I am proficient in business analysis technologies and tools. I automate routine tasks for efficiency.",
+            "Advanced": "I leverage and customize various technologies to enhance analysis capabilities. I advise on optimal tooling strategies.",
+            "Expert": "I pioneer new techniques and tools that transform business analysis capabilities. I am an industry thought leader on leveraging cutting-edge technologies."
+            },
+            "Conversation Design Skills": {
+                "Beginner": "I have basic knowledge of conversation design principles and tools.",
+                "Advanced Beginner": "I can build straightforward conversational flows for narrow use cases.",
+                "Intermediate": "I apply proven techniques to create clear, natural conversation flows.",
+                "Advanced": "I develop conversational interfaces that deliver intuitive, engaging user experiences. I provide subject matter expertise in design and implementation of these conversation flows.",
+                "Expert": "I am an innovator in conversational design, pushing boundaries of natural language interactions. I author new techniques and thought leadership both within my company and outside it."
+                },
+        "Botpress Tools": {
+            "Beginner": "I have basic awareness of chatbot technologies and tools like Botpress.",
+            "Advanced Beginner": "I can use Botpress to build simple conversational flows for narrow use cases.",
+            "Intermediate": "I can use Botpress to build complex conversational flows for wide use cases with multiple outcomes.",
+            "Advanced": "I am able to utilize both conversational flows and AI techniques to create innovative conversation flows.",
+            "Expert": "I am inventing new ways to leverage Botpress' toolset and other AI toolsets to push the boundaries of the platform in order to create dynamic experiences."
+        }
+    }
+}
