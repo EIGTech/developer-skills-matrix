@@ -10,7 +10,7 @@
   },
   "Communication": {
     "Feedback and Code Reviews": {
-      "Beginner": "What is a code review?  I am still learning about pull-requests and how to accept feedback constructively and implement feedback without additional help.",
+      "Beginner": "I am still learning about pull-requests and how to implement feedback without additional help.",
       "Advanced Beginner": "I typically understand feedback but may need more guidance to fully apply improvements. When providing feedback I typically notice clear issues in reviews but need to improve on speaking up more with helpful and specific ideas.",
       "Intermediate": "I welcome feedback and can implement it efficiently in my work and reviews. I am more confident in the comments I give in reviews and am able to provide quality guidance to less experienced teammates.",
       "Advanced": "I accept feedback well and act on it when suitable. When reviewing other's code I consistently give constructive and actionable feedback tailored to each person and situation. My feedback to others is typically well thought out and is able to be easily understood and implemented by other team members.",

@@ -1,0 +1,70 @@
+{
+    "Communication & Collaboration": {
+        "Requirements Gathering": {
+            "Beginner": "I struggle to elicit requirements from stakeholders and rely on others to lead discussions.",
+            "Advanced Beginner": "I can ask basic questions to understand requirements but need guidance in discussions with stakeholders.",
+            "Intermediate": "I am able to gather requirements from stakeholders using a variety of techniques. I probe to uncover hidden needs and validate my understanding.",
+            "Advanced": "I drive requirements discussions and strategically probe stakeholders to uncover non-obvious needs. I work to establish trust and credibility with my stakeholders.",
+            "Expert": "I am an expert at facilitating interactive sessions, quickly grasping context and drilling into critical details to arrive at innovative solutions."
+        },
+        "General Communication": {
+            "Beginner": "I am just beginning to learn how to explain analysis and technical topics to others.",
+            "Advanced Beginner": "I can communicate analysis results to others but my visuals and messaging needs more improvement.",
+            "Intermediate": "I communicate complex analysis clearly to both business and technical teams using reports, presentations, email, and tools like Monday.",
+            "Advanced": "I deliver compelling presentations and documents tailored to audience's needs. My communication inspires confidence and clarity with my team members.",
+            "Expert": "I distill complexity into intuitive narratives and data visualizations that bring insights to life."
+        },
+        "Documentation": {
+            "Beginner": "I tend to overlook documentation in my daily task. I am learning how how to write my documents in a way that can clearly communicate ideas to others.",
+            "Advanced Beginner": "I document work but my formatting and structure needs improvement.",
+            "Intermediate": "I produce documents and diagrams to capture requirements with attention to clarity, structure, and formatting.",
+            "Advanced": "My documentation is comprehensive, well-structured, and uses visuals to aid to facilitate ideas to others.",
+            "Expert": "I create exemplary documentation that raises the bar. My documents, diagrams, and visuals bring clarity and order to complexity for my team and others."
+        }
+    },
+    "Domain Knowledge": {
+        "EIG Business Knowledge": {
+            "Beginner": "I have very limited knowledge of EIG's business.",
+            "Advanced Beginner": "I have basic knowledge of EIG's products and business model.",
+            "Intermediate": "I understand EIG's product offerings and main business functions.",
+            "Advanced": "I have broad knowledge of EIG's business operations, customers, and strategic goals.",
+            "Expert": "I am a subject matter expert on EIG's business with a mastery of industry dynamics."
+        },
+        "Industry Knowledge": {
+            "Beginner": "I know very little about the insurance and insuretech industry.",
+            "Advanced Beginner": "I have limited familiarity with the insurance and insuretech industry.",
+            "Intermediate": "I understand the dynamics of the insurance and insuretech industry.",
+            "Advanced": "I have broad insurance industry knowledge including competitors, technology, and trends.",
+            "Expert": "I possess deep insurance industry expertise and stay on top of emerging technologies, competitors, regulations, and market forces."
+        },
+        "Product Strategy": {
+            "Beginner": "I have no involvement in product strategy.",
+            "Advanced Beginner": "I understand the basics of our product strategy and its impact on my company.",
+            "Intermediate": "I provide occasional analysis and ideas to help shape product strategy.",
+            "Advanced": "I provide analysis and input to help shape the product roadmap and strategy.",
+            "Expert": "I am a trusted strategic advisor who proactively identifies opportunities and shapes visionary product direction."
+        }
+    },
+    "Technical Skills": {
+        "Cloud/AWS Services": {
+            "Beginner": "I have no experience with cloud platforms like AWS.",
+            "Advanced Beginner": "I have basic knowledge of AWS services like EC2, S3, RDS but need help applying them.",
+            "Intermediate": "I can leverage AWS services for projects with some guidance. I understand benefits and limitations.",
+            "Advanced": "I architect low-code solutions on AWS for analytics, data lakes, and more. I make appropriate choices for solutions based on my knowledge.",
+            "Expert": "I am an AWS expert able to design innovative large-scale cloud-based solutions using a variety of services and technologies."
+        },
+        "Conversation Design Skills": {
+            "Beginner": "I have basic knowledge of conversation design principles and tools.",
+            "Intermediate": "I apply proven techniques to create clear, natural conversation flows.",
+            "Advanced": "I develop conversational interfaces that deliver intuitive, engaging user experiences. I provide subject matter expertise.",
+            "Expert": "I am an innovator in conversational design, pushing boundaries of natural language interactions. I author new techniques and thought leadership."
+        },
+        "Botpress Tools": {
+            "Beginner": "I have basic awareness of chatbot technologies and tools like Botpress.",
+            "Advanced Beginner": "I can use Botpress to build simple conversational flows for narrow use cases.",
+            "Intermediate": "I build and extend custom components in Botpress to enhance conversational AI capabilities.",
+            "Advanced": "I am able to maximize Botpress tooling to deliver wide-ranging enterprise solutions.",
+            "Expert": "I am innovating and building new components and integrations to use Botpress along with other AI tools to create new cutting edge"
+        }
+    }
+}
