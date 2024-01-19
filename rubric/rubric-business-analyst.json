@@ -3,37 +3,37 @@
         "Requirements Gathering": {
             "Beginner": "I struggle to elicit requirements from stakeholders and rely on others to lead discussions.",
             "Advanced Beginner": "I can ask basic questions to understand requirements but need guidance in discussions with stakeholders.",
-            "Intermediate": "I am able to gather requirements from stakeholders using a variety of techniques. I probe to uncover hidden needs and validate my understanding.",
-            "Advanced": "I drive requirements discussions and strategically probe stakeholders to uncover non-obvious needs. I work to establish trust and credibility with my stakeholders.",
+            "Intermediate": "I am able to gather requirements from stakeholders using a variety of techniques. I know how ask question to uncover hidden needs and validate my understanding.",
+            "Advanced": "I drive requirements discussions and strategically engage with stakeholders to uncover non-obvious needs. I work to establish trust and credibility with my stakeholders.",
             "Expert": "I am an expert at facilitating interactive sessions, quickly grasping context and drilling into critical details to arrive at innovative solutions."
         },
         "General Communication": {
             "Beginner": "I am just beginning to learn how to explain analysis and technical topics to others.",
-            "Advanced Beginner": "I can communicate analysis results to others but my visuals and messaging needs more improvement.",
+            "Advanced Beginner": "I can communicate basic analysis results and discuss outcomes with others but my understanding and explanations may not be deeply nuanced.",
             "Intermediate": "I communicate complex analysis clearly to both business and technical teams using reports, presentations, email, and tools like Monday.",
-            "Advanced": "I deliver compelling presentations and documents tailored to audience's needs. My communication inspires confidence and clarity with my team members.",
+            "Advanced": "I deliver compelling presentations and documents tailored to and audience's needs. My communication inspires confidence and clarity with my team members.",
             "Expert": "I distill complexity into intuitive narratives and data visualizations that bring insights to life."
         },
         "Documentation": {
-            "Beginner": "I tend to overlook documentation in my daily task. I am learning how how to write my documents in a way that can clearly communicate ideas to others.",
-            "Advanced Beginner": "I document work but my formatting and structure needs improvement.",
+            "Beginner": "I tend to overlook documentation in my daily tasks. I am learning how how to write my documents in a way that can clearly communicate ideas to others.",
+            "Advanced Beginner": "I consistently document work, but my formatting and structure may not be consistent or easily accessible to others.",
             "Intermediate": "I produce documents and diagrams to capture requirements with attention to clarity, structure, and formatting.",
-            "Advanced": "My documentation is comprehensive, well-structured, and uses visuals to aid to facilitate ideas to others.",
+            "Advanced": "My documentation is comprehensive, well-structured, and uses appropriate auxiliary methods (diagrams, flowcharts, graphics, etc.) to explicate ideas to others.",
             "Expert": "I create exemplary documentation that raises the bar. My documents, diagrams, and visuals bring clarity and order to complexity for my team and others."
         }
     },
     "Domain Knowledge": {
         "EIG Business Knowledge": {
             "Beginner": "I have very limited knowledge of EIG's business.",
-            "Advanced Beginner": "I have basic knowledge of EIG's products and business model.",
-            "Intermediate": "I understand EIG's product offerings and main business functions.",
+            "Advanced Beginner": "I have a basic understanding of EIG's products and business model.",
+            "Intermediate": "I clearly understand EIG's product offerings and main business functions.",
             "Advanced": "I have broad knowledge of EIG's business operations, customers, and strategic goals.",
-            "Expert": "I am a subject matter expert on EIG's business with a mastery of industry dynamics."
+            "Expert": "I am a subject matter expert on EIG's business, as well as their place in the larger industry."
         },
         "Industry Knowledge": {
-            "Beginner": "I know very little about the insurance and insuretech industry.",
-            "Advanced Beginner": "I have limited familiarity with the insurance and insuretech industry.",
-            "Intermediate": "I understand the dynamics of the insurance and insuretech industry.",
+            "Beginner": "I know very little about the insurance and the insurance technology industry.",
+            "Advanced Beginner": "I have limited familiarity with the insurance and insurance technology industry.",
+            "Intermediate": "I understand the dynamics of the insurance and insurance technology industry.",
             "Advanced": "I have broad insurance industry knowledge including competitors, technology, and trends.",
             "Expert": "I possess deep insurance industry expertise and stay on top of emerging technologies, competitors, regulations, and market forces."
         },
@@ -57,14 +57,14 @@
             "Beginner": "I have basic knowledge of conversation design principles and tools.",
             "Intermediate": "I apply proven techniques to create clear, natural conversation flows.",
             "Advanced": "I develop conversational interfaces that deliver intuitive, engaging user experiences. I provide subject matter expertise.",
-            "Expert": "I am an innovator in conversational design, pushing boundaries of natural language interactions. I author new techniques and thought leadership."
+            "Expert": "I am an innovator in conversational design, pushing boundaries of natural language interactions. I author new techniques and provide thought leadership."
         },
         "Botpress Tools": {
             "Beginner": "I have basic awareness of chatbot technologies and tools like Botpress.",
             "Advanced Beginner": "I can use Botpress to build simple conversational flows for narrow use cases.",
             "Intermediate": "I build and extend custom components in Botpress to enhance conversational AI capabilities.",
             "Advanced": "I am able to maximize Botpress tooling to deliver wide-ranging enterprise solutions.",
-            "Expert": "I am innovating and building new components and integrations to use Botpress along with other AI tools to create new cutting edge"
+            "Expert": "I am innovating and building new components and integrations to use Botpress along with other AI tools to create new cutting edge solutions."
         }
     }
 }
