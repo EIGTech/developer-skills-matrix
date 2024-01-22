@@ -81,7 +81,7 @@
       "Advanced Beginner": "I effectively use source control branching strategies and can manage my own workstream. I can articulate the purpose of code reviews and contribution workflows.",
       "Intermediate": "I optimize and enforce source control best practices across teams. I can configure policies, access controls and integrate SCM into CI/CD pipelines.",
       "Advanced": "I establish source control standards and architectures. I lead audits and drive improvements to SCM processes and tools. I provide mentoring on effective use of source control.",
-      "Expert": "I am a leader on scalable and secure source code and ALM strategies. I advise the organization on end-to-end SCM architectures and practices. I pioneer improvements to core frameworks, tools, and my companies procedures."
+      "Expert": "I am a leader on scalable and secure source code and asset management strategies. I advise the organization on end-to-end SCM architectures and practices. I pioneer improvements to core frameworks, tools, and my companies procedures."
     },
     "Design and Deployment": {
       "Beginner": "I can deploy simple applications following step-by-step instructions. I understand basic deployment concepts but require guidance to troubleshoot issues.",
