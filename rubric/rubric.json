@@ -19,7 +19,7 @@
     "Understanding Requirements": {
       "Beginner": "I am still learning the system and require very detailed step-by-step overviews of requirements along with acceptance criteria.",
       "Advanced Beginner": "I am able to take requirements and fill in some technical gaps but still require defined acceptance criteria.",
-      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria as well as fill in gaps as necessary. I ask good questions during requirements grooming, however I sometimes fail to identify the real problem and can be taken down rabbit trails.",
+      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria as well as fill in gaps as necessary. I ask good questions during requirements grooming, however I sometimes fail to identify the real problem and can hyper-focus on smaller, less-important, details (bikeshedding).",
       "Advanced": "I frequently provide the project with simpler optimized requirement alternatives. I am comfortable communicating project needs to developers and design constraints to users. I am able to effectively break down large requirements by domain.",
       "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value."
     },
