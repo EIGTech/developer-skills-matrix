@@ -58,7 +58,7 @@
       "Advanced Beginner":"I can build React applications with multiple components and states. I understand concepts like props, hooks and lifecycle methods. I can integrate React apps with REST APIs.",
       "Intermediate":"I utilize React best practices like functional components, Hooks and code splitting in my applications. I can create reusable React component libraries and optimize performance.",
       "Advanced":"I architect complex React codebases that are maintainable and scalable. I implement advanced patterns like higher order components, context, suspense. I can lead frontend development and make tradeoff decisions on frameworks and libraries.",
-      "Expert":"I am an expert in building pixel-perfect, high performance React experiences. I have deep knowledge of React internals and contribute to the framework. I lead frontend strategy, governance and standards for large organizations. I can navigate business needs to deliver optimal React solutions."
+      "Expert":"I am an expert in building pixel-perfect, high performance React experiences. I have deep knowledge of React internals and may contribute to the framework. I lead frontend strategy, governance and standards for large organizations. I can navigate business needs to deliver optimal React solutions."
     },
     "Testing":{
       "Beginner": "I understand the basic principles of unit and integration testing. I can write simple isolated unit tests for individual functions or classes.",
