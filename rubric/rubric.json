@@ -19,9 +19,9 @@
     "Understanding Requirements": {
       "Beginner": "I am still learning the system and require very detailed step-by-step overviews of requirements along with acceptance criteria.",
       "Advanced Beginner": "I am able to take requirements and fill in some technical gaps but still require defined acceptance criteria.",
-      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria as well as fill in gaps as necessary. I ask good questions during requirements grooming, however I sometimes fail to identify the real problem and can be taken down rabbit trails.",
+      "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria as well as fill in gaps as necessary. I ask good questions during requirements grooming, however I sometimes fail to identify the real problem and can hyper-focus on smaller, less-important, details (bikeshedding).",
       "Advanced": "I frequently provide the project with simpler optimized requirement alternatives. I am comfortable communicating project needs to developers and design constraints to users. I am able to effectively break down large requirements by domain.",
-      "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value."
+      "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value. Highly effective at “pushing back” on the Business when conflicts come up."
     },
     "Technical Communication": {
       "Beginner": "I am still learning technical vocabulary. I can explain a concept if I have seen it or read about it and have also implemented it several times.",
@@ -33,10 +33,10 @@
   },
   "Core Software Skills": {
     "General": {
-      "Beginner": "I can complete assigned tasks under supervision. I am ramping up on core engineering concepts and languages. I follow prescribed processes and identify when to seek guidance.",
-      "Advanced Beginner": "I work effectively within a team and can build applications or services based on requirements. I write maintainable code and am building my technical skills. I understand software lifecycles and project needs.",
-      "Intermediate": "I can independently develop solutions and collaborate cross-functionally. I make technical recommendations and optimize based on best practices. I participate in architecture reviews, retrospectives and mentoring.",
-      "Advanced": "I provide multi-disciplinary leadership through influence and enablement. I develop staff, set direction, and define processes and standards. I am a trusted advisor on designs, roadmaps and governance.",
+      "Beginner": "I can complete assigned tasks under supervision. I am learning core engineering concepts and languages. I follow prescribed processes and may have trouble identifying when to seek guidance.",
+      "Advanced Beginner": "I work effectively within a team and can build applications or services based on requirements. I write maintainable code and am building my technical skills. I understand software lifecycles and project needs. I know when to reach out for help with a task.",
+      "Intermediate": "I can independently develop solutions and collaborate with developers who specialize in other areas. I make technical recommendations and optimize based on best practices. I participate in architecture reviews, retrospectives and mentoring. I am learning to effectively collaborate with non-developers.",
+      "Advanced": "I provide leadership through influence and enablement. I develop staff, set direction, and define processes and standards. I collaborate effectively with non-developers. I am a trusted advisor on designs, roadmaps and governance.",
       "Expert": "I am a highly skilled technical leader known for strategic vision and judgment. I build teams, capabilities and culture. I am a hands-on subject matter expert and coach. I shape the engineering profession through public speaking, publishing and contributions."
     },
     "AWS Cloud Knowledge":{
@@ -58,7 +58,7 @@
       "Advanced Beginner":"I can build React applications with multiple components and states. I understand concepts like props, hooks and lifecycle methods. I can integrate React apps with REST APIs.",
       "Intermediate":"I utilize React best practices like functional components, Hooks and code splitting in my applications. I can create reusable React component libraries and optimize performance.",
       "Advanced":"I architect complex React codebases that are maintainable and scalable. I implement advanced patterns like higher order components, context, suspense. I can lead frontend development and make tradeoff decisions on frameworks and libraries.",
-      "Expert":"I am an expert in building pixel-perfect, high performance React experiences. I have deep knowledge of React internals and contribute to the framework. I lead frontend strategy, governance and standards for large organizations. I can navigate business needs to deliver optimal React solutions."
+      "Expert":"I am an expert in building pixel-perfect, high performance React experiences. I have deep knowledge of React internals and may contribute to the framework. I lead frontend strategy, governance and standards for large organizations. I can navigate business needs to deliver optimal React solutions."
     },
     "Testing":{
       "Beginner": "I understand the basic principles of unit and integration testing. I can write simple isolated unit tests for individual functions or classes.",
@@ -67,13 +67,6 @@
       "Advanced":"I advocate for and implement testing best practices at all levels within applications and systems. I can create re-usable test harnesses and utilities. I provide mentoring and leadership on effective testing strategies.",
       "Expert":"I am highly proficient with unit and integration testing techniques, principles and design patterns. I can diagnose and improve testing coverage across large scale systems. I influence test automation standards and strategies at an organizational level."
     }
-    ,"REMOVE??? Style and Semantics": {
-      "Beginner": "Methods are typically too large with verbose or otherwise unuseful names. Can imitate patterns or styles but often incorrectly.",
-      "Advanced Beginner": "Will think about how to solve a problem generically before worrying about syntax. Will ask naive but still-useful questions. Will require reinforcement to follow established patterns.",
-      "Intermediate": "Uses inoffensive function and variable names as a rule. Has developed opinions about coding styles and languages and can speak about their background. Highly complex code may still need a heavy hand from Advanced or Expert developers to make it beautiful.",
-      "Advanced": "Has a knack for using agreeable function and variable names that other developer s use without complaint. Deviates from style when appropriate but is an advocate for shared approaches. Capable of implementing complex code and explaining it to another developer for validation.",
-      "Expert": "Consistently drives high-level vision for style with high team buy-in. Influences entire codebases while writing a subset of the code. Accepts feedback and follows along when joining a new team with mature practices - even if those practices don't match the Developer's own."
-    }
   },
   "Infrastructure": {
     "Source Control and Application Lifecycle Management": {
@@ -81,7 +74,7 @@
       "Advanced Beginner": "I effectively use source control branching strategies and can manage my own workstream. I can articulate the purpose of code reviews and contribution workflows.",
       "Intermediate": "I optimize and enforce source control best practices across teams. I can configure policies, access controls and integrate SCM into CI/CD pipelines.",
       "Advanced": "I establish source control standards and architectures. I lead audits and drive improvements to SCM processes and tools. I provide mentoring on effective use of source control.",
-      "Expert": "I am a leader on scalable and secure source code and ALM strategies. I advise the organization on end-to-end SCM architectures and practices. I pioneer improvements to core frameworks, tools, and my companies procedures."
+      "Expert": "I am a leader on scalable and secure source code and asset management strategies. I advise the organization on end-to-end SCM architectures and practices. I pioneer improvements to core frameworks, tools, and my companies procedures."
     },
     "Design and Deployment": {
       "Beginner": "I can deploy simple applications following step-by-step instructions. I understand basic deployment concepts but require guidance to troubleshoot issues.",
