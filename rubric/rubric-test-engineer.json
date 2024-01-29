@@ -1,0 +1,78 @@
+{
+    "Communication":{
+        "Collaboration and communication": {
+            "Beginner": "I work together with my team members to complete the testing tasks assigned to me. I interact with them as needed to execute the prescribed test cases according to requirements.",
+            "Advanced Beginner": "I regularly share testing status updates, test results, bug reports and other relevant information across the broader project team. I provide these updates to report on progress made, convey any blocking issues, and communicate risks or test gaps that emerge.",
+            "Intermediate": "I frequently coordinate with team members across multiple functions like development, product management, and program management. I work to continually improve integration between teams, increase efficiency of our testing efforts, and promote full transparency into test status across the initiative.",
+            "Advanced": "I engage with and present to senior business stakeholders and company executives to influence them to adopt a quality-focused mindset. I advise them directly on the importance of sufficient testing and help shape testing culture from the top down.",
+            "Expert": "I spearhead industry dialogue through public speaking at conferences, and authoring online posts. I actively use my platform to advance the software testing profession by promoting best practices and innovations."
+            },
+        "Understanding Requirements": {
+            "Beginner": "I am still learning the system and require very detailed step-by-step overviews of requirements along with acceptance criteria.",
+            "Advanced Beginner": "I am able to take requirements and fill in some technical gaps but still require defined acceptance criteria.",
+            "Intermediate": "I can implement requirements both to the letter and spirit of acceptance criteria as well as fill in gaps as necessary. I ask good questions during requirements grooming, however I sometimes fail to identify the real problem and can be taken down rabbit trails.",
+            "Advanced": "I frequently provide the project with simpler optimized requirement alternatives. I am comfortable communicating project needs to developers and design constraints to users. I am able to effectively break down large requirements by domain.",
+            "Expert": "I am able to anticipate the organization’s needs and can improve grooming to suit it. I'm capable of building roadmaps that balance technical efficiency with maximum value."
+          }
+    },
+    "General": {
+        "Technical skills": {
+            "Beginner": "I have fundamental knowledge of standard testing tools and techniques but need guidance applying them effectively.",
+            "Advanced Beginner": "I have used common test automation frameworks and tools for simple use cases. I can automate basic test scripts with some assistance. I understand the purpose of the tests but have operated within narrow areas of the application.",
+            "Intermediate": "I have applied test automation, security testing, performance testing, and other practices across various types areas of the application. I can implement test harnesses and frameworks tailored to project needs.",
+            "Advanced": "I have designed and implemented sophisticated test infrastructure and capabilities across multiple areas of the application.  I am familiar with various types of testing and technology stacks for large-scale programs.",
+            "Expert": "I am knowledgeable across the full spectrum of leading-edge testing tools, techniques, and emerging technologies. I am typically on the bleeding edge of innovation and introduce those technologies to my team."
+        },
+        "AWS Cloud Knowledge":{
+            "Beginner": "I am capable of explaining the basic benefits of cloud computing and AWS with simplified vocabulary. I am familiar with fundamental AWS services and can complete basic tasks like launching and connecting to an EC2 instance.",
+            "Advanced Beginner":"I am able to describe the Well-Architected Framework principles and create straightforward VPCs and container deployments using essential AWS services. I am starting to apply my knowledge to test basic solutions.",
+            "Intermediate":"I can fluently identify anti-patterns against the Well-Architected Framework. I am skilled in using a range of AWS services to automate workflows, secure applications, and deploy infrastructure as code.",
+            "Advanced":"I am adept at designing robust solutions using a variety of AWS services and features. I can optimize cost and performance and extend AWS services programmatically at an advanced level. I can adapt my communication style for technical and non-technical audiences.",
+            "Expert":"I am highly capable in designing fault-tolerant, enterprise-grade architectures on AWS. I can diagnose and resolve complex technical issues and deliver highly secure, compliant solutions optimized for performance and cost. I can communicate and explain AWS solutions to both technical and business stakeholders clearly and effectively."
+          },
+        "Test planning and estimation": {
+            "Beginner": "I can execute prescribed test plans and test cases provided to me. I have limited experience estimating testing efforts.",
+            "Advanced Beginner": "I can estimate testing efforts for small, well-defined tasks based on past experience. I understand most factors that can impact test planning and execution.",
+            "Intermediate": "I optimize testing coverage and effectiveness through risk and requirement analysis and input from others. I can handle test planning for medium sized projects.",
+            "Advanced": "I strategize comprehensive test planning when applications are being architected. I am comfortable estimating large-scale initiatives.",
+            "Expert": "I pioneer innovative testing approaches and models for accurate test planning and estimation."
+        },
+        "Testing process and methodology expertise": {
+            "Beginner": "I have fundamental knowledge of standard software testing processes and methodologies but require guidance to execute them effectively. I understand the overall purpose of the testing process but lack deep experience.",
+            "Advanced Beginner": "I have worked within defined testing processes and can recommend minor improvements based on training and initial exposure to best practices. I understand how to operate within established structures.",
+            "Intermediate": "I lead testing initiatives using various standard methodologies. I can design efficient and tailored testing processes aligned to specific team capabilities and project needs.",
+            "Advanced": "I have expertise implementing and optimizing testing processes across EIG's applications. I lead selection, customization and continuous improvement of best-fit testing methodologies.",
+            "Expert": "I am an industry thought leader and innovator when it comes to pioneering new software testing processes and methodologies. I have created new approaches that have positively disrupted the field."
+        },
+        "Defect tracking and analysis": {
+            "Beginner": "I follow standard procedures to log and retest defects found during testing activities.",
+            "Advanced Beginner": "I can analyze defects to help identify localized issues and make limited recommendations for improvements.",
+            "Intermediate": "I track quality trends across releases and lead root cause analysis resulting in more permanent solutions.",
+            "Advanced": "I enrich organizational defect data to enable predictive models. I drive process improvements through data analysis.",
+            "Expert": "I pioneer innovative techniques in defect prevention, prediction and analysis using cutting edge data science."
+        },
+        "Programming": {
+            "Beginner": "I can write basic scripts to automate repetitive tasks. I rely heavily on documentation and samples.",
+            "Advanced Beginner": "I can write moderately complex scripts and programs using standard logic and loops. I can debug errors in existing code.",
+            "Intermediate": "I can write robust automation scripts using OOP concepts or common best practices. I can integrate APIs and build frameworks to maximize code reuse.",
+            "Advanced": "I architect the overall framework and automation strategy for the team. I continuously refine it for maximum maintainability, extensibility and optimization.",
+            "Expert": "I am deeply experienced in multiple languages and tech stacks. I can quickly deliver high quality automation solutions for diverse platforms and systems."
+        }
+    },
+    "Domain knowledge and Tools":{
+        "EIG Business Knowledge": {
+            "Beginner": "I have very limited knowledge of EIG's business.",
+            "Advanced Beginner": "I have a basic understanding of EIG's products and business model.",
+            "Intermediate": "I clearly understand EIG's product offerings and main business functions.",
+            "Advanced": "I have broad knowledge of EIG's business operations, customers, and strategic goals.",
+            "Expert": "I am a subject matter expert on EIG's business, as well as their place in the larger industry."
+        },
+        "Technology and tool skills": {
+            "Beginner": "I have fundamental skills to use standard testing tools and technologies.",
+            "Advanced Beginner": "I can script tests for efficiency using standard languages like Python and Selenium.",
+            "Intermediate": "I automate sophisticated test suites across diverse tools, custom frameworks and scripting.",
+            "Advanced": "I pioneer new test automation capabilities, tools and scripting APIs tailored to team needs.",
+            "Expert": "I am an acclaimed expert across past, present and future generations of test automation technologies."
+        }
+    }
+}
